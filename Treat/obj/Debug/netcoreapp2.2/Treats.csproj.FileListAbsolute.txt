@@ -1,0 +1,6 @@
+/Users/JoseAmesquita/Desktop/Treats.Solution/Treats/obj/Debug/netcoreapp2.2/Treats.csprojAssemblyReference.cache
+/Users/JoseAmesquita/Desktop/Treats.Solution/Treats/obj/Debug/netcoreapp2.2/Treats.csproj.CoreCompileInputs.cache
+/Users/JoseAmesquita/Desktop/Treats.Solution/Treats/obj/Debug/netcoreapp2.2/Treats.RazorAssemblyInfo.cache
+/Users/JoseAmesquita/Desktop/Treats.Solution/Treats/obj/Debug/netcoreapp2.2/Treats.RazorAssemblyInfo.cs
+/Users/JoseAmesquita/Desktop/Treats.Solution/Treats/obj/Debug/netcoreapp2.2/Treats.AssemblyInfoInputs.cache
+/Users/JoseAmesquita/Desktop/Treats.Solution/Treats/obj/Debug/netcoreapp2.2/Treats.AssemblyInfo.cs
