@@ -1,0 +1,28 @@
+@{
+  Layout = "_Layout";
+}
+
+@model Treats.Models.Flavor;
+
+<h2>Flavor Details</h2>
+
+<h3>@Html.DisplayNameFor(model => model.Description): @Html.DisplayFor(model => model.Description)</h3>
+
+@if(@Model.Treats.Count == 0)
+{
+  <p>This flavor is not contained in any treats</p>
+}
+else
+{
+  <h4>Treats the Flavor contains:</h4>
+  <ul>
+  @foreach(var join in Model.Treats)
+  {
+    <li>@join.Treat.Name</li>
+  }
+  </ul>
+}
+
+<p>@Html.ActionLink("Back to flavors", "Index")</p>
+<p>@Html.ActionLink("Edit flavor", "Edit", new { id = Model.FlavorId })</p>
+<p>@Html.ActionLink("Delete flavor", "Delete", new { id = Model.FlavorId })</p>
