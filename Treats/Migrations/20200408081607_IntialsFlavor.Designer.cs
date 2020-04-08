@@ -2,15 +2,17 @@
 using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using Treats.Models;
 
 namespace Treats.Migrations
 {
     [DbContext(typeof(TreatContext))]
-    partial class TreatContextModelSnapshot : ModelSnapshot
+    [Migration("20200408081607_IntialsFlavor")]
+    partial class IntialsFlavor
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
