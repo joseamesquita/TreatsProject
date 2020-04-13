@@ -112,3 +112,4 @@
 /Users/JoseAmesquita/Desktop/TreatsProject/Treats/obj/Debug/netcoreapp2.2/Treat.dll
 /Users/JoseAmesquita/Desktop/TreatsProject/Treats/obj/Debug/netcoreapp2.2/Treat.pdb
 /Users/JoseAmesquita/Desktop/TreatsProject/Treats/obj/Debug/netcoreapp2.2/Treat.csproj.CopyComplete
+/Users/JoseAmesquita/Desktop/TreatsProject/Treats/obj/Debug/netcoreapp2.2/Razor/Views/Treats/AddFlavor.g.cshtml.cs
