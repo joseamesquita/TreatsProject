@@ -8,6 +8,13 @@
 
 _This C# web application was designed to help market our friend Pierre's Sweet and Savory Treats. The purpose of this application is to demonstrate user authentication and represent many-to-many relationship. This application will allow the user to create an account through the website and be able to login into their account to navigate through Pierre's Sweet and Savory Treat. Hope you enjoy!_
 
+## Objectives 
+
+* Minimum one class have all CRUD methods implemented 
+* Many-to-many relationship 
+* Users are able to register, log in and log out with Identity 
+* Create, Update, Delete functionality limited to authenticated users
+
 ## Setup/Installation Requirements
 
 1. visit https://github.com/joseamesquita/VendorOrder.git
